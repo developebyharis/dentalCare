@@ -2788,7 +2788,7 @@ select {
   width: 100%;
 }
 .progressbar-wrap .progress-item .progress-title p {
-  color: var(--whiteColor);
+  color: black;
   font-weight: 400;
   font-family: var(--secondaryFont);
 }
