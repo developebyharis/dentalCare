@@ -2,15 +2,18 @@ const services = [
   {
       id: 1,
       image: "assets/img/services/service-1.webp",
+      singleImage: "assets/img/services/single-service-2.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "01",
       serviceIcon: "flaticon-tooth-4",
       serviceName: "Teeth Cleaning",
       serviceDescription: "Regular teeth cleaning helps maintain oral hygiene and prevent dental problems.",
+      video:"",
     },
     {
       id: 2,
       image: "assets/img/services/service-2.webp",
+      singleImage: "assets/img/services/single-service-1.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "02",
       serviceIcon: "flaticon-tooth-4",
@@ -20,6 +23,7 @@ const services = [
     {
       id: 3,
       image: "assets/img/services/service-3.webp",
+      singleImage: "assets/img/services/single-service-2.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "03",
       serviceIcon: "flaticon-tooth-4",
@@ -29,6 +33,7 @@ const services = [
     {
       id: 4,
       image: "assets/img/services/service-4.webp",
+      singleImage: "assets/img/services/single-service-1.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "04",
       serviceIcon: "flaticon-tooth-4",
@@ -38,6 +43,7 @@ const services = [
     {
       id: 5,
       image: "assets/img/services/service-1.webp",
+      singleImage: "assets/img/services/single-service-2.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "05",
       serviceIcon: "flaticon-tooth-4",
@@ -47,6 +53,7 @@ const services = [
     {
       id: 6,
       image: "assets/img/services/service-2.webp",
+      singleImage: "assets/img/services/single-service-1.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "06",
       serviceIcon: "flaticon-tooth-4",
@@ -56,6 +63,7 @@ const services = [
     {
       id: 7,
       image: "assets/img/services/service-3.webp",
+      singleImage: "assets/img/services/single-service-2.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "07",
       serviceIcon: "flaticon-tooth-4",
@@ -65,6 +73,7 @@ const services = [
     {
       id: 8,
       image: "assets/img/services/service-4.webp",
+      singleImage: "assets/img/services/single-service-1.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "08",
       serviceIcon: "flaticon-tooth-4",
@@ -74,6 +83,7 @@ const services = [
     {
       id: 9,
       image: "assets/img/services/service-1.webp",
+      singleImage: "assets/img/services/single-service-2.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "09",
       serviceIcon: "flaticon-tooth-4",
@@ -83,6 +93,7 @@ const services = [
     {
       id: 10,
       image: "assets/img/services/service-2.webp",
+      singleImage: "assets/img/services/single-service-1.webp",
       serviceCardShape: "assets/img/services/service-card-shape.webp",
       serviceCount: "10",
       serviceIcon: "flaticon-tooth-4",

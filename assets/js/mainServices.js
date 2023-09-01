@@ -22,7 +22,7 @@ function mapDataToHTML(data) {
         <div class="service-info">
           <img src="assets/img/services/service-card-shape.webp" alt="Image" class="service-card-shape">
           <span class="service-count">${service.serviceCount}</span>
-          <h3><a href="dentist-details.html?id=${service.id}&name=${service.serviceName}"><span>${service.serviceName}</span></a></h3>
+          <h3><a href="service-details.html?id=${service.id}&name=${service.serviceName}"><span>${service.serviceName}</span></a></h3>
           <p>${truncateServiceDescription(service.serviceDescription)}</p>
           <a href="dentist-details.html?id=${service.id}&name=${service.serviceName}" class="btn-three">Read More<i class="flaticon-right-arrow"></i></a>
         </div>

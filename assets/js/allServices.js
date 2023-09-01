@@ -17,7 +17,7 @@ function mapServicesPage(data, pageNumber, servicesPerPage) {
                 <span class="service-icon">
                     <i class="${service.serviceIcon}"></i>
                 </span>
-                <h3><a href="service-details.html"><span>${service.serviceName}</span></a></h3>
+                <h3><a href="service-details.html?id=${service.id}&name=${service.serviceName}"><span>${service.serviceName}</span></a></h3>
                 <p>${service.serviceDescription}</p>
                 <a href="service-details.html" class="btn-three">Read More<i class="flaticon-right-arrow"></i></a>
             </div>
