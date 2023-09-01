@@ -1,4 +1,8 @@
-import dentists from "./data.js";
+
+
+
+
+import dentists from "./dentistData.js";
 
 function getOneDentistFromEachSpecilization(data) {
     const dentistBySpecialization = {};
@@ -20,7 +24,7 @@ const oneDentistFromEachSpecialization =
 // Function to map data to HTML using template literals
 function mapDataToHTML(data) {
     return data.map((dentist) => `
-<div class="swiper-slide">
+    <div class="swiper-slide">
     <div class="team-card style-one">
         <div class="team-img">
             <img src="${dentist.image}" alt="Image">

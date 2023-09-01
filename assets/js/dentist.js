@@ -1,5 +1,5 @@
 
-import dentists from './data.js';
+import dentists from './dentistData.js';
 
 // Function to map data to HTML using template literals
 function mapDataToHTML(data) {
@@ -24,3 +24,6 @@ function mapDataToHTML(data) {
 
 const dentistListContainer = document.getElementById('dentistList');
 dentistListContainer.innerHTML = mapDataToHTML(dentists);
+
+
+

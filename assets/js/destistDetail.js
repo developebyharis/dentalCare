@@ -1,5 +1,5 @@
 
-import dentists from './data.js';
+import dentists from './dentistData.js';
 
 
         // Get the dentist's ID from the URL

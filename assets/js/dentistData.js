@@ -247,7 +247,7 @@ const dentists = [
         location: "456 Bones Street, Orthoville",
         phoneNumber: "+1 (555) 987-6543",
         email: "michael.jackson@example.com",
-        image: '/assets/img/team/team-9.webp',
+        image: '/assets/img/team/team-8.webp',
         shortDesc: "Dr. Michael Jackson specializes in orthopedic surgery and musculoskeletal health.",
         facebook: "https://www.facebook.com/DrMichaelJacksonOrtho",
         twitter: "https://www.twitter.com/DrMichaelJacksonOrtho",
@@ -270,37 +270,15 @@ const dentists = [
         ],
         membershipTwo: "He is dedicated to helping patients regain mobility and improve their quality of life.",
       },
-      {
-        id: 10,
-        name: "Dr. Lisa Martinez",
-        specialization: "Internal Medicine",
-        location: "123 Health Avenue, Medtown",
-        phoneNumber: "+1 (555) 543-2109",
-        email: "lisa.martinez@example.com",
-        image: '/assets/img/team/team-10.webp',
-        shortDesc: "Dr. Lisa Martinez provides comprehensive internal medicine care for adults.",
-        facebook: "https://www.facebook.com/DrLisaMartinezMed",
-        twitter: "https://www.twitter.com/DrLisaMartinezMed",
-        instagram: "https://www.instagram.com/DrLisaMartinezMed",
-        linkedin: "https://www.linkedin.com/in/DrLisaMartinezMed",
-        about: "Dr. Lisa Martinez is committed to preventive care and managing chronic health conditions...",
-        procedure: "Internal medicine physicians focus on adult healthcare, from preventive care to managing chronic illnesses...",
-        procedurePoints: [
-          "American College of Physicians",
-          "Society of General Internal Medicine",
-          "American Diabetes Association"
-        ],
-        procedureTwo: "Services include annual check-ups, disease management, and vaccinations...",
-        specialty: "Internal Medicine Doctor is a Responsive One Page WordPress Theme designed for internal medicine practices...",
-        membership: "Dr. Lisa Martinez is a member of respected internal medicine organizations...",
-        membershipPoints: [
-          "American College of Physicians",
-          "Society of General Internal Medicine",
-          "American Diabetes Association"
-        ],
-        membershipTwo: "She is dedicated to keeping her adult patients healthy and well-informed about their health.",
-      }
+     
    
 ];
 
 export default dentists;
+
+
+
+  
+
+
+   
