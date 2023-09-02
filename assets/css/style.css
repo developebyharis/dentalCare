@@ -5533,3 +5533,10 @@ article {
     display: block; /* or whatever display property you want to use for mobile */
   }
 }
+
+
+.inter-heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
