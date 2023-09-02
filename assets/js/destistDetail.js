@@ -128,5 +128,5 @@ if (selectedDentist) {
     displayDentistDetails(selectedDentist);
 } else {
     // Handle the case where the dentist with the specified ID was not found
-    alert('Dentist not found');
+    window.location.href = '/error-404.html';
 }

@@ -114,5 +114,5 @@ if (selectedService) {
     displayServiceDetail(selectedService);
 
 } else {
-    alert(' Service not found');
+    window.location.href = '/error-404.html';
 }
