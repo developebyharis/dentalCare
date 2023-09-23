@@ -1,4 +1,6 @@
 
+![images](https://github.com/developebyharis/dentalCare/assets/102483771/b96761bb-748a-48e2-89e0-190878a15af5)
+
 
 **Welcome to the dentalCare website**
 
